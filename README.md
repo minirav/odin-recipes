@@ -3,3 +3,6 @@ Set up a new folder in from my GitHub repository to get more comfortable with th
 Have to remember to check which folder I am in before cloning
 
 Plan is to create a basic recipe website with a main index and links to a few recipes with basic HTML, and eventually CSS for styling
+
+Dec 23, 2024
+adding some CSS to make things prettier
